@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @edonberishaa
 - 👀 I’m interested in learning Front-End;Back-End Development.
 - 🌱 I’m currently learning HTML,CSS and JavaScript
+- Also learning Python
 
 - 📫 How to reach me, e-mail: edonberisha52@gmail.com
 - 
