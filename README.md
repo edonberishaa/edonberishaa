@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @edonberishaa
-- 👀 I’m interested in learning Front-End;Back-End Development.
+- 👀 I’m interested in learning Front-End;Back-End Development with a big interest especially in Back-End.
+- Creating new things that can make the work for us is my goal,so for that I think Back-End is better.
 - 🌱 I have intermediate skills in programming languages such as : C# and Python.
 - Enough prepared to make websites with latest web-technlogies with advanced knowledge in HTML,CSS and JavaScript.
 - Recently learning databases ,and interacting with SQL Server via Programming Languages as C#.
