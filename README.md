@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @edonberishaa
-- 👀 I’m interested in learning Front-End;Back-End Development with a big interest especially in Back-End.
-- Creating new things that can make the work for us is my goal,so for that I think Back-End is better.
-- 🌱 I have intermediate skills in programming languages such as : C# and Python.
-- Enough prepared to make websites with latest web-technologies with advanced knowledge in HTML,CSS and JavaScript.
-- Recently learning databases ,and interacting with SQL Server via Programming Languages as C#.
-- 2-nd year of University,studying Computer Science and Engineering,finished 1-st year with an average of 9.27!
-- Always hungry for more! Self-Motivated and Ambitious Person!
+👋 Hi, I'm Edon Berisha!
+🚀 Passionate about Data Science, Data Engineering, AI, and Software Engineering
+
+💡 Technical Skills:
+Programming: Advanced in C# and Python (especially for data interaction)
+Web Development: Proficient in ASP.NET Core MVC for building modern web applications
+Databases: Skilled in SQL Server for designing and managing databases
+Data Engineering: Solid foundational knowledge
+
+🎓 Education:
+2nd-year Computer Science & Engineering student
+Finished 1st year with a 9.27 GPA
+
+🔥 Mindset:
+Self-Motivated | Ambitious | Always Learning
   
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=edonberishaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&theme=tokyonight" alt="my Github Stats"/>
 - <img src="https://github-readme-streak-stats.herokuapp.com/?user=edonberishaa&theme=tokyonight" alt="mystreak"/>
