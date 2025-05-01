@@ -1,4 +1,4 @@
-👋 Hi, I'm Edon Berisha!
+I'm Edon Berisha!
 🚀 Passionate about Data Science, Data Engineering, AI, and Software Engineering
 
 💡 Technical Skills:
