@@ -1,5 +1,5 @@
 I'm Edon Berisha!
-🚀 Passionate about Data Science, Data Engineering, AI, and Software Engineering
+🚀 Passionate about Data Science, AI and Software Development
 
 💡 Technical Skills:
 Programming: Advanced in C# and Python (especially for data interaction)
@@ -26,7 +26,7 @@ Self-Motivated | Ambitious | Always Learning
 - linkedin : https://www.linkedin.com/in/edonberisha/
 - instagram : _edonberisha
   
-- 
+
 
 <!---
 edonberishaa/edonberishaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
