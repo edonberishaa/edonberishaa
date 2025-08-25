@@ -8,8 +8,8 @@ Databases: Skilled in SQL Server for designing and managing databases
 Data Engineering: Solid foundational knowledge
 
 🎓 Education:
-2nd-year Computer Science & Engineering student
-Finished 1st year with a 9.27 GPA
+3rd-year Computer Science & Engineering student
+Finished 2st year with 9.35 GPA
 
 🔥 Mindset:
 Self-Motivated | Ambitious | Always Learning
