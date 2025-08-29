@@ -9,7 +9,7 @@ Data Engineering: Solid foundational knowledge
 
 🎓 Education:
 3rd-year Computer Science & Engineering student
-Finished 2st year with 9.35 GPA
+Finished 2nd year with 9.35 GPA
 
 🔥 Mindset:
 Self-Motivated | Ambitious | Always Learning
