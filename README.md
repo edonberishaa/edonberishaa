@@ -2,17 +2,14 @@ I'm Edon Berisha!
 🚀 Passionate about Data Science, AI and Software Development
 
 💡 Technical Skills:
-Programming: Advanced in C# and Python (especially for data interaction)
-Web Development: Proficient in ASP.NET Core MVC for building modern web applications
-Databases: Skilled in SQL Server for designing and managing databases
+Programming: Advanced in C# and Python
+Web Development: React, Next.js, ASP.NET
+Databases:  PostgreSQL, SQL Server, Supabase
 Data Engineering: Solid foundational knowledge
 
 🎓 Education:
 3rd-year Computer Science & Engineering student
 Finished 2nd year with 9.35 GPA
-
-🔥 Mindset:
-Self-Motivated | Ambitious | Always Learning
   
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=edonberishaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&theme=tokyonight" alt="my Github Stats"/>
 - <img src="https://github-readme-streak-stats.herokuapp.com/?user=edonberishaa&theme=tokyonight" alt="mystreak"/>
@@ -24,8 +21,7 @@ Self-Motivated | Ambitious | Always Learning
 - 📫 How to reach me;
 -  e-mail: edonberisha52@gmail.com
 - linkedin : https://www.linkedin.com/in/edonberisha/
-- instagram : _edonberisha
-  
+
 
 
 <!---
