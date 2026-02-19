@@ -1,15 +1,12 @@
 - I'm Edon Berisha! 
 - Full Stack Engineer
-🚀 Passionate about Data Science, AI and Software Development
+- Passionate about Data Science, AI and Software Development
 
 💡 Technical Skills:
 Programming: Advanced in C# and Python
 Web Development: React, Next.js, ASP.NET, FastAPI
 Databases:  PostgreSQL, SQL Server, Supabase
 Data Engineering: Solid foundational knowledge
-
-🎓 Education:
-Computer Science & Engineering student - 9.35 GPA
 
 
   
