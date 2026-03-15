@@ -28,6 +28,18 @@ I enjoy building scalable systems, working across the full stack, and continuous
 ### Data Engineering
 - Solid foundational knowledge in data pipelines, data modeling, and processing with PySpark
 
+### Cloud Computing
+- Azure Fundamentals Certified (AZ-900)
+- AWS hands-on deployments and configuring
+
+### DevOps 
+- GitHub Actions
+- Docker
+- Terraform
+
+### Monitoring & Observability
+- Sentry 
+  
 ---
 
 ## GitHub Statistics
