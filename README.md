@@ -2,8 +2,8 @@
 
 ## Full Stack Engineer
 
-I am passionate about Data Science, Artificial Intelligence, and Software Development.  
-I enjoy building scalable systems, working across the full stack, and continuously improving my engineering skills.
+Software Engineer, AI, DevOps
+Building scalable systems, working across the full stack, and continuously improving my engineering skills.
 
 ---
 
