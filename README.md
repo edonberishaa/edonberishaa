@@ -2,8 +2,8 @@
 
 ## Full Stack Engineer
 
-Software Engineer, AI, DevOps
-Building scalable systems, working across the full stack, and continuously improving my engineering skills.
+- Software Engineer, AI, DevOps.
+- Building scalable systems, working across the full stack, and continuously improving my engineering skills.
 
 ---
 
